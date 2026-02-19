@@ -1,91 +1,15 @@
-<div align="center">
+# 💫 About Me:
+Hello there 👋🏾<br>I’m Neema Naserian, a 4th-year Informatics and Computer Science student.<br>I enjoy turning ideas into thoughtful, elegant solutions (usually after negotiating with a few stubborn bugs).<br><br>I care deeply about:<br><br>🌱 continuous learning and creative exploration<br>⚙️ building technology that quietly makes everyday life a little easier<br>
 
-# Neema Naserian  
-*Software Developer · Computer Science Student*
 
-Building thoughtful solutions with clean code and intention.  
-One commit at a time.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Neema Mapelu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Neema.Mapelu@strathmore.edu) 
 
-</div>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NMapelu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=NMapelu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NMapelu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-### ✨ About Me
-
-Hello there 👋🏾  
-I’m **Neema**, a 4th-year Computer Science student and software developer who enjoys turning ideas into practical, elegant solutions.
-
-I care deeply about:
-- clean, readable code  
-- continuous learning  
-- building technology that quietly makes life easier  
-
----
-
-### 🤎 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/Neema Mapelu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-d8cfc4?style=for-the-badge&logo=linkedin&logoColor=5c5047" />
-  </a>
-  <a href="mailto:Neema.Mapelu@strathmore.edu">
-    <img src="https://img.shields.io/badge/Email-e6ded6?style=for-the-badge&logo=gmail&logoColor=5c5047" />
-  </a>
-</p>
-
----
-
-### 🤍 Tech Stack
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Java-e8dfd7?style=for-the-badge&logo=openjdk&logoColor=5c5047"/>
-<img src="https://img.shields.io/badge/Python-e3d9cf?style=for-the-badge&logo=python&logoColor=5c5047"/>
-<img src="https://img.shields.io/badge/JavaScript-dfd5ca?style=for-the-badge&logo=javascript&logoColor=5c5047"/>
-<img src="https://img.shields.io/badge/Kotlin-e9e0d8?style=for-the-badge&logo=kotlin&logoColor=5c5047"/>
-<img src="https://img.shields.io/badge/PHP-e2d8cf?style=for-the-badge&logo=php&logoColor=5c5047"/>
-
-<img src="https://img.shields.io/badge/React-f0e8e0?style=for-the-badge&logo=react&logoColor=5c5047"/>
-<img src="https://img.shields.io/badge/Node.js-e6ddd5?style=for-the-badge&logo=node.js&logoColor=5c5047"/>
-
-<img src="https://img.shields.io/badge/MySQL-e8dfd7?style=for-the-badge&logo=mysql&logoColor=5c5047"/>
-<img src="https://img.shields.io/badge/Azure-e5dbd1?style=for-the-badge&logo=microsoftazure&logoColor=5c5047"/>
-<img src="https://img.shields.io/badge/Vercel-f2ebe5?style=for-the-badge&logo=vercel&logoColor=5c5047"/>
-
-<img src="https://img.shields.io/badge/GitHub-efe7df?style=for-the-badge&logo=github&logoColor=5c5047"/>
-<img src="https://img.shields.io/badge/JWT-e3d9cf?style=for-the-badge&logo=jsonwebtokens&logoColor=5c5047"/>
-
-</p>
-
----
-
-### 🤍 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NMapelu&show_icons=true&hide_border=true&bg_color=ffffff&title_color=5c5047&text_color=6f6259&icon_color=cbbba7" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=NMapelu&hide_border=true&background=FFFFFF&ring=CBBBA7&fire=E0CFC1&currStreakLabel=5C5047&sideNums=6F6259&dates=8A7D72" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NMapelu&layout=compact&hide_border=true&bg_color=ffffff&title_color=5c5047&text_color=6f6259" />
-</p>
-
----
-
-### ✍🏾 A Thought I Like
-
-<p align="center">
-  <em>
-    “Code is not just instructions for machines —  
-    it’s a quiet conversation with the future.”
-  </em>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=NMapelu&icon=7&color=9" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
