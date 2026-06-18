@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4E9DE,50:E4CFC0,100:CDAF9B&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=4A3428&fontAlignY=38&desc=Your+Subtitle+or+Professional+Tagline+Here&descAlignY=58&descColor=6B4E3D&animation=fadeIn" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF7F0,25:FDE6D6,50:FDC6D6,75:E7BFAE,100:DCC7B1&height=180&section=-header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=5C4033&fontAlignY=38&desc=Your+Subtitle+or+Professional+Tagline+Here&descAlignY=58&descColor=846B5B&animation=fadeIn" />
 </p>
 
 # Hi there, I'm Neema Mapleu 👋
